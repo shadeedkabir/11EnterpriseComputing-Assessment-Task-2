@@ -159,3 +159,31 @@ button:hover {
     font-weight: bold;
     text-align: center;
 }
+
+
+/*Google Map*/
+
+.map {
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+/*Footer*/
+
+footer {
+    background-color: #2f5d2f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #ffd700;
+}
