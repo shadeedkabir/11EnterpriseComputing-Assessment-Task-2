@@ -61,4 +61,50 @@ p {
 }
 
 
+/*Information Boxes*/
+
+.mycontainer {
+    width: 100%;
+    overflow: auto;
+    margin-top: 30px;
+}
+
+.mycontainer div {
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 1%;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+
+/*Images*/
+
+.food-image {
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+/*Buttons*/
+
+.button {
+    display: inline-block;
+    background-color: #2f5d2f;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.button:hover {
+    background-color: #d4a017;
+}
+
+
 }
