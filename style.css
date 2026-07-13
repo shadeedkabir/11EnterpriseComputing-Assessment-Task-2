@@ -208,3 +208,9 @@ footer a:hover {
         width: 90%;
     }
 }
+
+/*Mapping Format*/
+.map {
+    text-align: center;
+    margin-top: 30px;
+}
