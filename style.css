@@ -214,3 +214,30 @@ footer a:hover {
     text-align: center;
     margin-top: 30px;
 }
+
+/*Accessibility Buttons*/
+
+.accessibility {
+
+    text-align: center;
+    margin: 20px;
+
+}
+
+.accessibility button {
+
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.accessibility button:hover {
+
+    background-color: #04AA6D;
+
+}
